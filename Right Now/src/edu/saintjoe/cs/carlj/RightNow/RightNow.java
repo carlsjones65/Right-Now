@@ -1,7 +1,9 @@
 package edu.saintjoe.cs.carlj.RightNow;
 
 public class RightNow {
-	//this is just a pretend project
+	//had to use this project as the phone homework
+	//because I could not merge the java and github 
+	//repos together for the life of me
 	
 	public final String name;
 	
